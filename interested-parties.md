@@ -80,6 +80,7 @@ Everyone is also welcome to [participate](https://openfeature.dev/community/cont
 | Tim Glaser          | PostHog         |                                                                         | [timgl](https://github.com/timgl)                             | N/A                                               |
 | Todd Baert          | Dynatrace       | ISC2                                                                    | [toddbaert](https://github.com/toddbaert)                     | N/A                                               |
 | Tom Carrio          | Skillshare      |                                                                         | [tcarrio](https://github.com/tcarrio)                         | [tcarrio](https://gitlab.com/tcarrio)             |
+| Tolulope Makinde         |       |                                                                         | [tmakinde](https://github.com/tmakinde)                         | N/A         |
 | Vic Vuci            | DevCycle        | Taplytics                                                               | [vicv](https://github.com/vicv)                               | [vicv](https://gitlab.com/vicv)                   |
 | Vitor Vasconcellos | MercadoLibre | OpenTelemetry | [vitorvasc](https://github.com/vitorvasc) | |
 | Weyert de Boer      | FNZ             | Opentelemetry, OpenSLO                                                  | [weyert](https://github.com/weyert)                           |
